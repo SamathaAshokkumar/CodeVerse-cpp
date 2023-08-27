@@ -1,0 +1,9 @@
+enter the array of 7 elements:
+the array of 7 elemnts id :
+-1161422704
+463
+-1736633095
+32758
+1
+0
+50
